@@ -16,3 +16,4 @@ jobs:
           pwd
           ls -lah
           echo "Fin del Script"
+          echo "ESTE ES UN PIPE DE TEST"
