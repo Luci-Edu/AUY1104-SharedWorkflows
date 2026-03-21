@@ -2,6 +2,7 @@ name: Deploy API to Docker Hub
 
 on:
   workflow_call:
+  workflow_dispatch:
 
 jobs:
   run-inline-script:
